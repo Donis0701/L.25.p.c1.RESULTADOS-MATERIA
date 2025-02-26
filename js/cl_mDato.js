@@ -1,4 +1,4 @@
-export default class dato {
+export default class cl_mDato {
     constructor(){
         this.cntAP= 0;
         this.cntNA= 0;
